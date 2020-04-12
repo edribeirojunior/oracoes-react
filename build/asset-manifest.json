@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.594d8036.chunk.css",
+    "main.js": "/static/js/main.a1c8c516.chunk.js",
+    "main.js.map": "/static/js/main.a1c8c516.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2d513a4f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2d513a4f.js.map",
+    "static/js/2.2009b0d7.chunk.js": "/static/js/2.2009b0d7.chunk.js",
+    "static/js/2.2009b0d7.chunk.js.map": "/static/js/2.2009b0d7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.af6e1ba993aff3369ede7638d3a99ad9.js": "/precache-manifest.af6e1ba993aff3369ede7638d3a99ad9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.594d8036.chunk.css.map": "/static/css/main.594d8036.chunk.css.map",
+    "static/js/2.2009b0d7.chunk.js.LICENSE.txt": "/static/js/2.2009b0d7.chunk.js.LICENSE.txt",
+    "static/media/Santissima_Eucaristia.jpg": "/static/media/Santissima_Eucaristia.6c25c6b6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d513a4f.js",
+    "static/js/2.2009b0d7.chunk.js",
+    "static/css/main.594d8036.chunk.css",
+    "static/js/main.a1c8c516.chunk.js"
+  ]
+}
